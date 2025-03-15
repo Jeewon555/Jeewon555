@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeewon Koo
-- 🎓 I’m a sophomore majoring at Ewha Womans University
+- 🎓 I’m a sophomore at Ewha Womans University
 - 🌱 I’m currently learning JAVA
 - 👀 I’m interested in Music
 - 💞️ I’m looking to collaborate on ...
