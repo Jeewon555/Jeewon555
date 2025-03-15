@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Jeewon Koo
 - 🎓 I’m a sophomore at Ewha Womans University
-- 🌱 I’m currently learning JAVA
+- 🎓 I’m majoring in Computer Science & Engineering.
+- 🌱 I’m currently learning JAVA & C++
+- 👀 I’m planning to double major in Cybersecurity.
+- 
 - 👀 I’m interested in Music
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
